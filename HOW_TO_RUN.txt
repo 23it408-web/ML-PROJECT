@@ -1,0 +1,18 @@
+MOVIE RECOMMENDATION - ML MINI PROJECT
+Prit Patel | 23IT408 | Subject: Machine Learning (4IT47)
+Birla Vishvakarma Mahavidyalaya
+
+FOLDER CONTENTS
+1. Movie_Recommendation_Prit_Patel.pptx  -> presentation (10 slides, speaker notes included)
+2. project_code/                          -> the working project
+     app.py            (KNN + K-Means model and Streamlit UI)
+     movies.csv        (110 movies dataset)
+     requirements.txt
+     README.md
+
+HOW TO RUN THE PROJECT (Windows / Mac / Linux)
+1. Install Python 3 (python.org)
+2. Open a terminal inside the project_code folder
+3. Run:  pip install -r requirements.txt
+4. Run:  streamlit run app.py
+5. The app opens in your browser at http://localhost:8501
